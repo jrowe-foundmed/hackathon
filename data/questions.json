@@ -1,0 +1,44 @@
+[
+	{
+		"text": [
+			"How many ",
+			{"diseaseToken": "name"},
+			" patients have you diagnosed?1"
+		]
+	},
+	{
+		"text": [
+			"How many ",
+			{"diseaseToken": "name"},
+			" patients have you diagnosed?2"
+		]
+	},
+	{
+		"text": [
+			"How many ",
+			{"diseaseToken": "name"},
+			" patients have you diagnosed?3"
+		]
+	},
+	{
+		"text": [
+			"How many ",
+			{"diseaseToken": "name"},
+			" patients have you diagnosed?4"
+		]
+	},
+	{
+		"text": [
+			"How many ",
+			{"diseaseToken": "name"},
+			" patients have you diagnosed?5"
+		]
+	},
+	{
+		"text": [
+			"How many ",
+			{"diseaseToken": "name"},
+			" patients have you diagnosed?6"
+		]
+	}
+]

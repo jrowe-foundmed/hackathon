@@ -1,0 +1,62 @@
+[
+	{
+		 "id" : "1001",
+		 "name" : "Non small <b>cell</b> lung cancer",
+		 "text" : [
+		 	"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui ",
+		 	{
+		 		"label": "officia",
+		 		"content" : "(deserunt mollit anim id est laborum)"
+		 	},
+			" perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+		 ]
+ 	},
+ 	{
+		 "id" : "1002",
+		 "name" : "Glioblastoma",
+		 "text" : [
+		 	"Curabitur non quam eu est malesuada varius. Cras cursus libero vitae purus semper luctus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin ultricies euismod mauris, et venenatis dolor. Phasellus ac elit magna. Vivamus et sem finibus, rutrum eros non, sollicitudin risus. Nulla sit amet dapibus nibh. Curabitur quis laoreet turpis, eget sagittis sem. In dui erat, eleifend ac interdum quis, eleifend a dui. Morbi ",
+		 	{
+		 		"label": "vulputate",
+		 		"content" : "(Dui sed ipsum rhoncus scelerisque. Duis semper quam non egestas malesuada. Vestibulum et aliquet urna.)"
+		 	},
+			" Suspendisse vulputate porta est non dictum. Morbi sit amet semper lorem. Suspendisse iaculis porttitor sapien ut aliquam. Aenean quis nibh orci."
+		 ]
+	 },
+	 {
+		 "id" : "1003",
+		 "name" : "Acute Myeloid lukhemia",
+		 "text" : [
+		 	"LOREM IPSUM DOLOR SIT AMET, CONSECTETUR ADIPISCING ELIT. QUISQUE UT VESTIBULUM QUAM, NON DICTUM EROS. CRAS INTERDUM NISI UT ACCUMSAN VOLUTPAT. AENEAN LOBORTIS EST EU BIBENDUM CONSECTETUR. FUSCE VARIUS AUGUE SAPIEN, ET SODALES MI RHONCUS UT. PROIN FAUCIBUS AUGUE AC FELIS DAPIBUS, VEL DICTUM TORTOR AUCTOR. VESTIBULUM ELEIFEND LACUS ALIQUET, FERMENTUM DIAM EU, FAUCIBUS NEQUE. UT ULTRICIES ENIM AC ULTRICIES ALIQUAM. NUNC ALIQUAM AT ELIT EU BLANDIT.",
+		 	{
+		 		"label": "NUNC",
+		 		"content" : "NUNC ENIM ORCI, SCELERISQUE SIT AMET ELEIFEND VITAE, PHARETRA COMMODO TORTOR. DONEC DAPIBUS NIBH NON IPSUM SUSCIPIT MALESUADA. VIVAMUS MOLESTIE ODIO NULLA, SED RHONCUS EROS MOLESTIE UT."
+		 	},
+			"PHASELLUS VIVERRA CONSEQUAT MALESUADA. CRAS EGESTAS ERAT AC TINCIDUNT GRAVIDA. PRAESENT DICTUM EU IPSUM SED VESTIBULUM."
+		 ]
+	 },
+	 {
+		 "id" : "1004",
+		 "name" : "Breast cancer",
+		 "text" : [
+		 	"LOREM IPSUM DOLOR SIT AMET, CONSECTETUR ADIPISCING ELIT. QUISQUE UT VESTIBULUM QUAM, NON DICTUM EROS. CRAS INTERDUM NISI UT ACCUMSAN VOLUTPAT. AENEAN LOBORTIS EST EU BIBENDUM CONSECTETUR. FUSCE VARIUS AUGUE SAPIEN, ET SODALES MI RHONCUS UT. PROIN FAUCIBUS AUGUE AC FELIS DAPIBUS, VEL DICTUM TORTOR AUCTOR. VESTIBULUM ELEIFEND LACUS ALIQUET, FERMENTUM DIAM EU, FAUCIBUS NEQUE. UT ULTRICIES ENIM AC ULTRICIES ALIQUAM. NUNC ALIQUAM AT ELIT EU BLANDIT.",
+		 	{
+		 		"label": "NUNC",
+		 		"content" : "NUNC ENIM ORCI, SCELERISQUE SIT AMET ELEIFEND VITAE, PHARETRA COMMODO TORTOR. DONEC DAPIBUS NIBH NON IPSUM SUSCIPIT MALESUADA. VIVAMUS MOLESTIE ODIO NULLA, SED RHONCUS EROS MOLESTIE UT."
+		 	},
+			"PHASELLUS VIVERRA CONSEQUAT MALESUADA. CRAS EGESTAS ERAT AC TINCIDUNT GRAVIDA. PRAESENT DICTUM EU IPSUM SED VESTIBULUM."
+		 ]
+	 },
+	 {
+		 "id" : "1005",
+		 "name" : "Liver cancer",
+		 "text" : [
+		 	"LOREM IPSUM DOLOR SIT AMET, CONSECTETUR ADIPISCING ELIT. QUISQUE UT VESTIBULUM QUAM, NON DICTUM EROS. CRAS INTERDUM NISI UT ACCUMSAN VOLUTPAT. AENEAN LOBORTIS EST EU BIBENDUM CONSECTETUR. FUSCE VARIUS AUGUE SAPIEN, ET SODALES MI RHONCUS UT. PROIN FAUCIBUS AUGUE AC FELIS DAPIBUS, VEL DICTUM TORTOR AUCTOR. VESTIBULUM ELEIFEND LACUS ALIQUET, FERMENTUM DIAM EU, FAUCIBUS NEQUE. UT ULTRICIES ENIM AC ULTRICIES ALIQUAM. NUNC ALIQUAM AT ELIT EU BLANDIT.",
+		 	{
+		 		"label": "NUNC",
+		 		"content" : "NUNC ENIM ORCI, SCELERISQUE SIT AMET ELEIFEND VITAE, PHARETRA COMMODO TORTOR. DONEC DAPIBUS NIBH NON IPSUM SUSCIPIT MALESUADA. VIVAMUS MOLESTIE ODIO NULLA, SED RHONCUS EROS MOLESTIE UT."
+		 	},
+			"PHASELLUS VIVERRA CONSEQUAT MALESUADA. CRAS EGESTAS ERAT AC TINCIDUNT GRAVIDA. PRAESENT DICTUM EU IPSUM SED VESTIBULUM."
+		 ]
+	 }
+]

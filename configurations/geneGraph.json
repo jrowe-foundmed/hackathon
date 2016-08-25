@@ -1,0 +1,37 @@
+{
+  "height": "100%",
+  "width": "100%",
+  "locale": "en",
+  "clickToUse": false,
+  "layout": {
+    "hierarchical": {
+      "enabled": true,
+      "direction": "UD",
+      "sortMethod": "directed",
+      "nodeSpacing": 195,
+      "levelSeparation": 195
+    }
+  },
+  "nodes": {
+    "physics": true,
+    "shape": "dot",
+    "size": 8,
+    "font": {
+      "color": "#679BB5",
+      "size": 14,
+      "face": "arial"
+    },
+    "shadow": {
+      "color": "#679BB5",
+      "size": 8,
+      "x": 3,
+      "y": 3
+    },
+    "color": "#A6A7AA"
+  },
+  "physics": {
+    "hierarchicalRepulsion": {
+      "nodeDistance": 195
+    }
+  }
+}

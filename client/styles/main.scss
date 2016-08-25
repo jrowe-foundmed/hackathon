@@ -1,0 +1,84 @@
+$background: #fff;
+
+body {
+  background: $background;
+  font-family: "Helvetica Neue", serif;
+  color: #527D92;
+  margin: 0;
+}
+
+.header {
+	background: #445362;
+	height: 80px;
+	width: 100%;
+}
+
+.header .menu {
+	float: right;
+	padding-right: 80px;
+}
+
+.header span {
+	padding: 40px 50px 20px 0;
+	display: inline-block;
+	color: #fff;
+	font-size: .85em;
+}
+
+.header span.selected {
+	color: #EF6B3A;
+}
+
+.expert-body {
+	padding: 0 50px;
+	width: 70%;
+}
+
+.disease-selection {
+	margin: 0 0 35px 0;
+}
+
+.disease-selection select {
+	width: 200px;
+	margin: 0 8px;
+}
+
+.disease-info h2 {
+	color: #EF6B3A;
+}
+
+.disease-info .left-text-panel {
+	width: 75%;
+	float: left;
+	display: inline-block;
+}
+
+.disease-info .right-image-panel {
+	width: 25%;
+	float: right;
+	display: inline-block;
+}
+
+.questions {
+	width: 75%;
+	float: left;
+	display: inline-block;
+	padding: 20px 0;
+}
+
+.questions .question {
+	width: 25%;
+	display: inline-block;
+	padding: 10px 25px 10px 15px;
+	margin: 0 20 0 0;
+	background: #79BA30;
+	box-shadow: 3px 3px 3px #888888;
+	color: #fff;
+	font-size: .8em;
+	border-radius: 5px;
+}
+
+.expandable-text-node {
+	color: #517FE0;
+	cursor: pointer;
+}
