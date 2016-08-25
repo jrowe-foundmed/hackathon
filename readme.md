@@ -1,7 +1,5 @@
-# react-webpack-boilerplate [![Build Status][travis-badge]][travis] [![Coverage Status][coveralls-badge]][coveralls]
-> Simple production-ready boilerplate for [React](http://facebook.github.io/react/) and [Webpack](http://webpack.github.io/) (SASS and React hot reloading) and tests with Jest.
-
-Note: if you want React server-side rendering support, take a look at my personal site repo based on this: [github.com/srn/srn.io](https://github.com/srn/srn.io)
+# Team 6 Hackathon Front End
+> Select a disease, pick questions.
 
 ## Install
 
@@ -10,10 +8,6 @@ Clone repository and run:
 ```sh
 $ npm install
 ```
-
-Alternatively, you can deploy your own copy with one click using this button:
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/srn/react-webpack-boilerplate)
 
 ## Requirements
 
@@ -39,24 +33,6 @@ Also build the production bundle:
 
 ```sh
 $ npm run dist
-```
-
-## Tests
-
-```sh
-$ npm test
-```
-
-Only run specific tests
-
-```sh
-$ npm test -- NotFoundComponent
-```
-
-Coverage
-
-```sh
-$ npm test -- --coverage
 ```
 
 ## License
