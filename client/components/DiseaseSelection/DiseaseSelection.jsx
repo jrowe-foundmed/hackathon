@@ -1,5 +1,4 @@
 import React, { Component, PropTypes } from 'react';
-import Autocomplete from 'react-autocomplete';
 
 export default class DiseaseSelection extends Component {
 	static propTypes = {
@@ -11,7 +10,6 @@ export default class DiseaseSelection extends Component {
 			<div className='disease-selection'>
 				<h2>Let us help you become an EXPERT IN YOU again.</h2>
 				<div>I was diagnosed with <DiseaseSelect setDisease={this.props.setDisease} diseases={this.props.diseases} /></div>
-				<p></p>
 			</div>
 		);
 	}
