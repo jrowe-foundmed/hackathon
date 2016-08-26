@@ -30,12 +30,17 @@ body {
 }
 
 .expert-body {
-	padding: 0 50px;
+	display: inline-block;
+	padding-left: 50px;
 	width: 70%;
 }
 
 .disease-selection {
 	margin: 0 0 35px 0;
+}
+
+.disease-selection .selection-text {
+	font-size: 1.2em;
 }
 
 .disease-selection select {
@@ -67,15 +72,84 @@ body {
 }
 
 .questions .question {
-	width: 25%;
+	width: 30%;
 	display: inline-block;
-	padding: 10px 25px 10px 15px;
 	margin: 0 20 0 0;
 	background: #79BA30;
 	box-shadow: 3px 3px 3px #888888;
 	color: #fff;
 	font-size: .8em;
 	border-radius: 5px;
+}
+
+.question .question-text {
+	display: inline-block;
+	padding: 10px 0 10px 15px;
+	width: 80%;
+}
+
+.question .add-button {
+	display: inline-block;
+	width: 10%;
+	float: right;
+	font-size: 1.5em;
+	text-align: center;
+	cursor: pointer;
+}
+
+.shopping-cart {
+	width: 23%;
+	float: right;
+	margin: 20px;
+	border: 2px solid #979797;
+	border-radius: 10px;
+}
+
+.shopping-cart .cart-header {
+	width: 98%;
+	background: #D8D8D8;
+	text-align: center;
+	padding: 5% 1%;
+	border-top-right-radius: 10px;
+	border-top-left-radius: 10px;
+	border-bottom: 2px solid #979797;
+}
+
+.shopping-cart .cart-header span {
+	display: table-cell;
+	width: 100%;
+	text-align: center;
+	vertical-align: middle;
+	height: 35px;
+	padding: 0 25;
+}
+
+.shopping-cart .cart-body {
+	padding: 10px;
+}
+
+.shopping-cart ul {
+	margin-left: 2px;
+}
+
+.shopping-cart li {
+	margin-bottom: 15px;
+}
+
+.shopping-cart .cart-button {
+	display: inline-block;
+	width: 35%;
+	background: #79BA30;
+	box-shadow: 3px 3px 3px #888888;
+	color: #fff;
+	font-size: .8em;
+	border-radius: 5px;
+	margin: 10px;
+	padding: 10px;
+}
+
+.shopping-cart .cart-button.right {
+	float: right;
 }
 
 .expandable-text-node {

@@ -9,7 +9,7 @@ export default class DiseaseSelection extends Component {
 		return (
 			<div className='disease-selection'>
 				<h2>Let us help you become an EXPERT IN YOU again.</h2>
-				<div>I was diagnosed with <DiseaseSelect setDisease={this.props.setDisease} diseases={this.props.diseases} /></div>
+				<div className='selection-text'>I was diagnosed with <DiseaseSelect setDisease={this.props.setDisease} diseases={this.props.diseases} /></div>
 			</div>
 		);
 	}
@@ -22,7 +22,7 @@ class DiseaseSelect extends Component {
 	};
 	render() {
 		let selectOnChange = (e) => {
-			this.props.setDisease(e.target.options[e.target.selectedIndex].value);
+			this.props.setDisease(e.target.options[e.target.selectedIndex].label);
 		}
 		return (
 			<select onChange={selectOnChange}>
